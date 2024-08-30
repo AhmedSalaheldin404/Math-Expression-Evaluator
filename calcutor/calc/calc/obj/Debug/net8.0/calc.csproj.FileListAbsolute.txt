@@ -1,0 +1,14 @@
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\bin\Debug\net8.0\calc.exe
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\bin\Debug\net8.0\calc.deps.json
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\bin\Debug\net8.0\calc.runtimeconfig.json
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\bin\Debug\net8.0\calc.dll
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\bin\Debug\net8.0\calc.pdb
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.AssemblyInfoInputs.cache
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.AssemblyInfo.cs
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.dll
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\refint\calc.dll
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.pdb
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\calc.genruntimeconfig.cache
+C:\Users\Ahmed Salah\proj4\proj3\proj2\calcutor\calc\calc\obj\Debug\net8.0\ref\calc.dll
